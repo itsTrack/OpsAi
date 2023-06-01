@@ -1,4 +1,4 @@
-# OpsAi
+
 <h1 align="center">OpsAi</h1>
 <h2 align="center">Python library for AI programs .</h2>
 
@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Library%20views&color=0e75b6&style=flat" alt="ahmed-alawadi" /> <a href=""><img src="https://img.shields.io/pypi/v/OpsAi?label=OpsAi"></a>
+ <a href=""><img src="https://img.shields.io/pypi/v/OpsAi?label=OpsAi"></a>
 <p align="center"> 
 
 </p>
